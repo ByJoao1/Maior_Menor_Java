@@ -1,8 +1,4 @@
-Boa escolha, João Pedro! Abaixo está um `README.md` completinho pro projeto da **questão 5 – Maior entre dois números**, pronto pra colocar no teu GitHub:
 
----
-
-```markdown
 # 🔢 Maior entre dois números – Java
 
 Este é um programa simples em Java que lê dois números inteiros informados pelo usuário e exibe qual deles é o maior, ou se os dois são iguais.
